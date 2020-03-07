@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://malimahong.github.io</id>
     <title>RenLi</title>
-    <updated>2020-03-07T00:34:00.288Z</updated>
+    <updated>2020-03-07T00:43:26.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://malimahong.github.io"/>
     <link rel="self" href="https://malimahong.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://malimahong.github.io/images/avatar.png</logo>
     <icon>https://malimahong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, RenLi</rights>
+    <entry>
+        <title type="html"><![CDATA[照片]]></title>
+        <id>https://malimahong.github.io/post/zhao-pian/</id>
+        <link href="https://malimahong.github.io/post/zhao-pian/">
+        </link>
+        <updated>2020-03-07T00:42:59.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://malimahong.github.io/post-images/1583541790934.JPG" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://malimahong.github.io/post-images/1583541798793.JPG" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
         <id>https://malimahong.github.io/post/ce-shi/</id>
